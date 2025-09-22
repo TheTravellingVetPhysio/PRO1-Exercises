@@ -1,1 +1,1 @@
-System.out.println("Hello, GitHub! Now edited in VSCode.");
+System.out.println("Ændring fra VSCode, som skaber konflikt!");
